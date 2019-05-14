@@ -1,4 +1,4 @@
-# ChattingRoom
+# Chatting
 
 ## Online demo:
 
